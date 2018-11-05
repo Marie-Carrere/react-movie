@@ -1,8 +1,8 @@
-# React Movie
+<h1 align="center">React Movie</h1>
 
-<h1 align="center">
+<h2 align="center">
   <img src="public/images/react-movie-home.png" style="max-width:100%" alt="react-movie-home" />
-</h1>
+</h2>
 
  #### React Movie is a Netflix/YouTube clone using The Movie Database API to display movie trailers and related information.
 
